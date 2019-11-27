@@ -1,4 +1,4 @@
 # blog
 Django blog application
 
-Live project located at <a href='spencersblog.herokuapp.com'>spencersblog.herokuapp.com</a>
+Live project located at <a href='https://spencersblog.herokuapp.com'>spencersblog.herokuapp.com</a>
